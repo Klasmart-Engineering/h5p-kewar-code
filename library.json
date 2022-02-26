@@ -21,6 +21,13 @@
       "path": "dist/h5p-kewar-code.css"
     }
   ],
+  "preloadedDependencies": [
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
+  ],
   "editorDependencies": [
     {
       "machineName": "H5PEditor.ColorSelector",
