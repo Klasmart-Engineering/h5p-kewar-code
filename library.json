@@ -32,7 +32,7 @@
     {
       "machineName": "H5PEditor.ColorSelector",
       "majorVersion": 1,
-      "minorVersion": 2
+      "minorVersion": 4
     },
     {
       "machineName": "H5PEditor.ShowWhen",
@@ -41,6 +41,11 @@
     },
     {
       "machineName": "H5PEditor.KewArCode",
+      "majorVersion": 1,
+      "minorVersion": 0
+    },
+    {
+      "machineName": "EditorFontKidsLoop",
       "majorVersion": 1,
       "minorVersion": 0
     }
